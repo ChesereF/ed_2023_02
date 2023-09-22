@@ -1,0 +1,12 @@
+{
+  "name": "ex-p2.10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "ts-node ./app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
